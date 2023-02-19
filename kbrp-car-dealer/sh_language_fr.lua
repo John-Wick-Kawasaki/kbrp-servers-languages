@@ -30,7 +30,7 @@ DarkRP.RegisterSentences("kbrp_car_dealer", "fr", {
 	["sellVehicleFor"] = "Vendre pour %s",
 	["returnVehicle"] = "Retourner",
 	["timeLeftForTestVehicle"] = "Il vous reste encore %s secondes pour tester ce véhicule.",
-	["invalidEntityProblem"] = "L'une des entité avec qui nous voulons communiquer n'est pas valide !",
+	["invalidEntityProblem"] = "L'une des entités avec qui nous voulons communiquer n'est pas valide !",
 	["npcTooFar"] = "Vous devez être plus proche du PNJ !",
 	["npcMisconfigured"] = "Le NPC a mal été configuré, veuillez contacter un administrateur !",
 	["invalidRank"] = "Vous n'avez pas le grade nécessaire !",
